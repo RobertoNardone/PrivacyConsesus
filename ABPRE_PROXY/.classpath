@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="src/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="src/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="src/jna-3.2.5.jar"/>
+	<classpathentry kind="lib" path="src/jpbc-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jpbc-benchmark-2.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jpbc-crypto-2.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jpbc-mm-2.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jpbc-pbc-2.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jpbc-plaf-2.0.0.jar"/>
+	<classpathentry kind="lib" path="src/commons-codec-1.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
